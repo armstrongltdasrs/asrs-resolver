@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asrs-resolver/static/css/main.93e5ae9e.css",
+    "main.js": "/asrs-resolver/static/js/main.d1d28192.js",
+    "static/js/787.0da0c8c9.chunk.js": "/asrs-resolver/static/js/787.0da0c8c9.chunk.js",
+    "index.html": "/asrs-resolver/index.html",
+    "main.93e5ae9e.css.map": "/asrs-resolver/static/css/main.93e5ae9e.css.map",
+    "main.d1d28192.js.map": "/asrs-resolver/static/js/main.d1d28192.js.map",
+    "787.0da0c8c9.chunk.js.map": "/asrs-resolver/static/js/787.0da0c8c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e5ae9e.css",
+    "static/js/main.d1d28192.js"
+  ]
+}
